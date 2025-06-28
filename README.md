@@ -76,8 +76,8 @@ The dataset was obtained from **Kaggle**, and I used Power BI to transform the d
 
 Hi! I'm **Varsha**, a computer science student and aspiring data analyst. This is my **third Power BI project**, and I’m building my portfolio one dataset at a time — practicing consistency and real-world data storytelling. 🧠✨
 
-- 💼 GitHub: [github.com/yourusername](https://github.com/VarshaPandey24)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/varshapandey6)
+- 💼 GitHub:(https://github.com/VarshaPandey24)
+- 🔗 LinkedIn:(https://linkedin.com/in/varshapandey6)
 
 ---
 
