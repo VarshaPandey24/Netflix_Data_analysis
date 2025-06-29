@@ -14,7 +14,7 @@ The dataset was obtained from **Kaggle**, and I used Power BI to transform the d
 - ✅ Analyzed **type distribution (TV Shows vs. Movies)**, **popular genres**, and **most featured directors**
 - ✅ Analyzed **most available shows as per the season and duration.
 - ✅ Bar Chart showing count of shows as per the rating of movies.
-- ✅ Analyzing count of shows available as per the countries of production.
+- ✅ Analyzing countris of production through Map.
 
 ---
 
@@ -47,6 +47,7 @@ The dataset was obtained from **Kaggle**, and I used Power BI to transform the d
 - 📌 **Bar Chart** showing most loved genres
 - 📌 **Pie Chart** showing content type distribution
 - 📌 **Bar Chart** of most featured directors
+- 📌 **Map** for countries of production
 ---
 
 ## 🧰 Tools & Techniques Used
@@ -56,6 +57,7 @@ The dataset was obtained from **Kaggle**, and I used Power BI to transform the d
 - **DAX (Data Analysis Expressions)**
 - **Bar and Pie Charts for comparison**
 - **KPI Cards for summary statistics**
+- **Maps** for showing countries of production
 
 ---
 
